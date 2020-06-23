@@ -6,4 +6,4 @@ project uploaded on 23-06-2020 \
 clone the folder and run the file cartpole.m to get the results.
 
 **Implementation:**\
-![](https://github.com/satyamgupta2708/trajectory_optimisation/blob/master/cart_pendulum.gif)
+![](https://github.com/satyamgupta2708/trajectory_optimisation/blob/master/cart-pendulum.gif)
